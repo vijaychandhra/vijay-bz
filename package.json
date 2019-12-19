@@ -1,0 +1,19 @@
+{
+  "name": "vijay-bz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaychandhra/vijay-bz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaychandhra/vijay-bz/issues"
+  },
+  "homepage": "https://github.com/vijaychandhra/vijay-bz#readme"
+}
